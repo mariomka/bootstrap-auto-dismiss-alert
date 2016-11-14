@@ -1,6 +1,6 @@
 # Bootstrap auto dismiss alerts
 
-### Simple plugin to auto dismiss/close Bootstrap 3.x alerts
+### Simple plugin to auto dismiss/close Bootstrap 3.x alert
 
 ## Usage
 
