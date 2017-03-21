@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-auto-dismiss-alert",
+  "version": "1.0.2",
+  "description": "Simple plugin to auto dismiss/close Bootstrap 3.x alerts",
+  "keywords": [
+    "bootstrap",
+    "alert",
+    "alerts",
+    "dismiss",
+    "close"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mario Juárez",
+    "email": "mario@mjp.one",
+    "url": "http://www.mjp.one"
+  },
+  "main": "bootstrap-auto-dismiss-alert.js",
+  "repository": "mariomka/bootstrap-auto-dismiss-alert",
+  "bugs": {
+    "url": "https://github.com/mariomka/bootstrap-auto-dismiss-alert/issues"
+  },
+  "homepage": "https://github.com/mariomka/bootstrap-auto-dismiss-alert#readme"
+}
